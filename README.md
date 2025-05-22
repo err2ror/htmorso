@@ -6,6 +6,6 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, follow this <a href="htmorso/orso.htm">link to the new page</a>.</p>
+    <p>If you are not redirected automatically, follow this <a href="htmorso/orso.html">link to the new page</a>.</p>
 </body>
 </html>
